@@ -1,2 +1,1 @@
 print("jss")
-print("gobi")
